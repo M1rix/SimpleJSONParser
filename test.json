@@ -1,0 +1,19 @@
+{
+  "People": [
+    {
+      "Name": "Aston",
+      "Mobile": 12345678,
+      "Boolean": true,
+      "Pet": "Dog",
+      "Address": "USA"
+    },
+    {
+      "Name": "Martin",
+      "Mobile": 87654321,
+      "Boolean": true,
+      "Pet": "fish",
+      "Address": "AU"
+
+    }
+  ]
+}
